@@ -1,0 +1,7 @@
+name: exlainable_ho
+channels:
+  - defaults
+dependencies:
+  - scipy
+  - matplotlib
+
