@@ -1,5 +1,5 @@
 
-# Example experiments for the paper "Explainable Hyperparameter Optimization using HSIC"
+# Example experiments for the paper "Goal-Oriented Sensitivity Analysis of Hyperparameters in Deep Learning"
 
 ## Requirements
 ---
